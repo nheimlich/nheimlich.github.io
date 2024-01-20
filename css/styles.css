@@ -1,0 +1,14 @@
+
+header {
+  background-color: grey;
+  color: white;
+  text-align: left;
+  padding: 10px;
+}
+
+footer {
+  background-color: grey;
+  color: white;
+  text-align: center;
+  padding: 10px;
+}
