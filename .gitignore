@@ -1,3 +1,8 @@
 node_modules/*
 _site
 public/*
+tofu/.terraform*
+tofu/terraform.tfstate*
+tofu/.ic_state/*
+
+!tofu/.ic_state
